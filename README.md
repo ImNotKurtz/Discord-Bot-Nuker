@@ -1,4 +1,4 @@
-# [OUTDATED] Presser: 7teen Server Nuker
+# [OUTDATED] Presser: Kurtz Bot Nuker
 
 | Presser | 
 | ------------- | 
